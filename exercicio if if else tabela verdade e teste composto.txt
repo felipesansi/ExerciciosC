@@ -1,0 +1,15 @@
+Faça um programa que leia dois números 
+e informe:
+a) se o primeiro é maior que o segundo.
+b) se o primeiro é igual ao segundo.
+c) se o dobro do primeiro é maior que o 
+segundo.
+d) se o primeiro é maior, menor ou igual 
+ao segundo.
+
+1 - resolver utilizando if "simples"
+2 - resolver utilizando if/else.
+
+obs.: utilizar o conteúdo de aula com 
+tabela verdade, operadores relacionais
+com testes lógicos simples ou compostos.
